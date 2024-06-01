@@ -5,6 +5,7 @@ Un blog para el curso de el [curso de Git y GitHub](https://platzi.com/cursos/gi
 ## Aprendizajes del curso
 * Todos los comandos de Git
 * Flujo de trabajo con GitHub
+* Incluye ejemplos en Windows y Mac
 
 Como recordatorio: **Este READNE.md es SOLO un EJEMPLO**. No tomarse en serio este readme, por favor :)
 
