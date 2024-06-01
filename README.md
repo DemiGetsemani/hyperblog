@@ -7,3 +7,5 @@ Un blog para el curso de el [curso de Git y GitHub](https://platzi.com/cursos/gi
 * Flujo de trabajo con GitHub
 
 Como recordatorio: **Este READNE.md es SOLO un EJEMPLO**. No tomarse en serio este readme, por favor :)
+
+* Creado por Demetrio Canizales
